@@ -1,0 +1,14 @@
+# Python generated files
+
+**pycache**/
+*.pyc
+*.pyo
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# macOS system files
+
+.DS_Store
